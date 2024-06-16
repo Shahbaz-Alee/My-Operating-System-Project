@@ -8,7 +8,7 @@
 * [Setup](#setup)
 * [Usage](#usage)
 * [Acknowledgement](#acknowledgement)
-* [Additional Resources](#additionalresources)
+* [Additional Resources](#additionalResources)
 * [License](#license)
 
 ## General Info
