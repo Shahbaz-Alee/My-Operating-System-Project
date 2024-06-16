@@ -7,7 +7,8 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Usage](#usage)
-* [Credits](#credits)
+* [Acknowledgement](#acknowledgement)
+* [Additional Resources](#additionalresources)
 * [License](#license)
 
 ## General Info
@@ -114,6 +115,11 @@ To run this project, follow these steps:
 
 ## Acknowledgement 
 - I would like to express my sincere gratitude to **[Numan Shafi](https://www.linkedin.com/in/numan-shafi786/)**, Ph.D. Scholar, for his invaluable guidance, support, and encouragement throughout this project.
+
+## Additional Resources
+
+- **[Watch the project demonstration on YouTube](https://youtu.be/EGRXwL5_NOM)**: This video provides a detailed demonstration of the project in action.
+
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
