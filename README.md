@@ -1,6 +1,6 @@
 # Project Title: My OS
 
-![Project Screenshot]([https://example.com/project-screenshot.png](https://github.com/ShahbazGhafil/My-Operating-System-Project/blob/main/img.png) "Project Screenshot")
+![Project Screenshot](https://github.com/ShahbazGhafil/My-Operating-System-Project/blob/main/img.png "Project Screenshot")
 
 ## Table of Contents
 * [General Info](#general-info)
