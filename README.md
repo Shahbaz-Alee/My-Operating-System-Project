@@ -113,7 +113,8 @@ To run this project, follow these steps:
 
 
 ## Acknowledgement 
-- I would like to express my sincere gratitude to **Numan Shafi**, Ph.D. Scholar, for his invaluable guidance, support, and encouragement throughout this project.
+- I would like to express my sincere gratitude to **[Numan Shafi](https://www.linkedin.com/in/numan-shafi786/)**, Ph.D. Scholar, for his invaluable guidance, support, and encouragement throughout this project.
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
