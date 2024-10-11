@@ -3,7 +3,7 @@
 #include <unistd.h>
 
 #define FILENAME "data.txt"
-#define INTERVAL 60 // Interval in seconds
+#define INTERVAL 60 //////////// Interval in seconds
 
 void saveToFile(const char *data) {
     FILE *file = fopen(FILENAME, "a");
@@ -24,9 +24,7 @@ int main() {
 
         // Save data to file
         saveToFile(data);
-        
         printf("Data saved to file.\n");
-
         // Sleep for specified interval
         sleep(INTERVAL);
     }
